@@ -26,5 +26,5 @@ for ($counter = 1; $counter <= 10; $counter++) :
 endfor;
 
 for ($counter = 10; $counter >= 1; $counter--) :
-    echo "hello for loop : " . $counter . PHP_EOL;
+    echo "Hei for loop : " . $counter . PHP_EOL;
 endfor;
