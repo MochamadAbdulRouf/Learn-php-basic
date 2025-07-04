@@ -39,4 +39,12 @@ Repositori ini berisi seluruh hasil eksplorasi dan latihan saya dalam mempelajar
 ### 🔹 Include & Require
 - [x] Penggunaan `require`, `include`, dan variasinya
 
+### 🔹 dll
+- [x] Tipe data number
+- [x] Tipe data string
+- [x] Variable Function
+- [x] Variable Scope
+- [x] Variable
+- [x] While Loop
 ---
+
