@@ -46,5 +46,7 @@ Repositori ini berisi seluruh hasil eksplorasi dan latihan saya dalam mempelajar
 - [x] Variable Scope
 - [x] Variable
 - [x] While Loop
+
+Masih banyak lagi mungkin bisa di lihat di masing" keterangan pada nama file karena sudah tertulis materi dan didalam file ada sub materi yang berkaitan dengan materi utama yang telah di kuasai
 ---
 
